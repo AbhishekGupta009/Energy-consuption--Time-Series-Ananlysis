@@ -9,7 +9,7 @@ The dataset used in this analysis contains the following columns:
 The amount of energy consumed on that date (in kilowatt-hours or any other appropriate unit).
 # Analysis Steps :
 # Data Preprocessing
-This section involves loading the dataset, handling missing values (if any), and converting the data into a suitable format for time series analysis.
+This section involves loading the dataset, handling missing values, and converting the data into a suitable format for time series analysis.
 
 # Exploratory Data Analysis (EDA)
 In this section, we explore the dataset visually and statistically to understand its characteristics, such as trends, seasonality, and outliers.
